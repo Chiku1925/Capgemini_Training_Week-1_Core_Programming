@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1d7c069-91fe-4d6d-8b7a-45c905127fbf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level1/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level1/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level1/DistanceConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level1/HandshakeCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level1/PurchaseCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level1/Queeight.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level1/Queeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level1/Quefive.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level1/Quefive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level1/Quefour.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level1/Quefour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level1/Quenine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level1/Quenine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level1/Queone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level1/Queone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level1/Quesec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level1/Quesec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level1/Queseven.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level1/Queseven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level1/Quesix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level1/Quesix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level1/Queten.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level1/Queten.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level1/Quethree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level1/Quethree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level1/SquareSideCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level1/SquareSideCalculator.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level1/TriangleAreaCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level1/TriangleAreaCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level2/CelsiusTemp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level2/CelsiusTemp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level2/ChocolateDistribution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level2/ChocolateDistribution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level2/DoubleOperation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level2/DoubleOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level2/IntOperation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level2/IntOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level2/Remainder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level2/Remainder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level2/SimpleInterestCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level2/SimpleInterestCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level2/SwapNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level2/SwapNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level2/SwapNumber.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level2/Temperature.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level2/Temperature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level2/TotalIncome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level2/TotalIncome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level2/TravelComputation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level2/TravelComputation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level2/TriangularRun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level2/TriangularRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level2/TriangulatrRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level2/WeightConverter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day1/Level2/WeightConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountDown.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Counter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DivisibilityCheck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DivisibilityCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EmployeeBonus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactorialCalculator .java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LargestNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LargestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultiplicationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NaturalNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NaturalNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NumberCheck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NumberCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OddEvenNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SmallestOfThree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SmallestOfThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringSeason.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringSeason.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SumNaturalNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SumNaturalNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SumNaturalNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SumNaturalNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SumOfNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SumOfNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VotingAge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VotingAge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Level2/Fizz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Level2/Fizz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Level2/FizzBuzz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Level2/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day3/Level1/eight.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day3/Level1/eight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day3/Level1/fifth.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day3/Level1/fifth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day3/Level1/first.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day3/Level1/first.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day3/Level1/fourth.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day3/Level1/fourth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day3/Level1/nine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day3/Level1/nine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day3/Level1/second.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day3/Level1/second.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day3/Level1/seventh.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day3/Level1/seventh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day3/Level1/sixth.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day3/Level1/sixth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day3/Level1/tenth.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day3/Level1/tenth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day3/Level1/third.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day3/Level1/third.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day3/Level2/BMI_Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day3/Level2/BMI_Calculator_extent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day3/Level2/DigitFrequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day3/Level2/EmployeeBonus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day3/Level2/EmployeeBonus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day3/Level2/LargestDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day3/Level2/ReverseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day3/Level2/StudentGrades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day3/Level2/StudentGrades_extend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day3/Level2/YoungestTallestFriend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day4/Level1/eight.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day4/Level1/eight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day4/Level1/eleven.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day4/Level1/eleven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day4/Level1/first.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day4/Level1/first.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day4/Level1/five.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day4/Level1/five.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day4/Level1/four.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day4/Level1/four.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day4/Level1/nine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day4/Level1/nine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day4/Level1/second.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day4/Level1/second.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day4/Level1/seven.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day4/Level1/seven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day4/Level1/six.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day4/Level1/six.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day4/Level1/ten.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day4/Level1/ten.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day4/Level1/third.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day4/Level1/third.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day4/Level2/eight.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day4/Level2/eight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day4/Level2/eleven.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day4/Level2/eleven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day4/Level2/five.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day4/Level2/five.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day4/Level2/four.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day4/Level2/four.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day4/Level2/nine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day4/Level2/nine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day4/Level2/one.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day4/Level2/one.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day4/Level2/second.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day4/Level2/second.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day4/Level2/seven.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day4/Level2/seven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day4/Level2/six.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day4/Level2/six.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day4/Level2/ten.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day4/Level2/ten.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day4/Level2/third.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day4/Level2/third.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day4/Level2/twelve.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day4/Level2/twelve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day5/Level1/eight.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day5/Level1/eight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day5/Level1/first.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day5/Level1/first.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day5/Level1/five.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day5/Level1/five.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day5/Level1/four.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day5/Level1/four.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day5/Level1/nine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day5/Level1/nine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day5/Level1/second.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day5/Level1/second.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day5/Level1/seven.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day5/Level1/seven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day5/Level1/six.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day5/Level1/six.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day5/Level1/ten.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day5/Level1/ten.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day5/Level1/third.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day5/Level1/third.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day5/Level2/QuesEight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day5/Level2/QuesFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day5/Level2/QuesFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day5/Level2/QuesNine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day5/Level2/QuesOne.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day5/Level2/QuesOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day5/Level2/QuesSeven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day5/Level2/QuesSix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day5/Level2/QuesTen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day5/Level2/QuesTen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day5/Level2/QuesThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day5/Level2/QuesTwo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2vr6aftUqFyHdMfpN9c30iZOayM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Lenovo/OneDrive/Desktop/Java/Week 1"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1d7c069-91fe-4d6d-8b7a-45c905127fbf" name="Changes" comment="" />
+      <created>1744890912007</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744890912007</updated>
+    </task>
+    <servers />
+  </component>
+</project>
